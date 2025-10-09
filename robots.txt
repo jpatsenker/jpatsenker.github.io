@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jpatsenker.github.io/al-folio/sitemap.xml
+Sitemap: https://jpatsenker.github.io/sitemap.xml

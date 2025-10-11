@@ -1,0 +1,103 @@
+@article{jaffe2020spectral,
+  title={The spectral underpinning of word2vec},
+  author={Jaffe, Ariel and Kluger, Yuval and Lindenbaum, Ofir and Patsenker, Jonathan and Peterfreund, Erez and Steinerberger, Stefan},
+  journal={Frontiers in applied mathematics and statistics},
+  volume={6},
+  pages={593406},
+  year={2020},
+  publisher={Frontiers Media SA}
+}
+
+@article{patsenker2023exponential,
+  title={Exponential weight averaging as damped harmonic motion},
+  author={Patsenker, Jonathan and Li, Henry and Kluger, Yuval},
+  journal={arXiv preprint arXiv:2310.13854},
+  year={2023}
+}
+
+@article{patsenker2025injecting,
+  title={Injecting Measurement Information Yields a Fast and Noise-Robust Diffusion-Based Inverse Problem Solver},
+  author={Patsenker, Jonathan and Li, Henry and Ko, Myeongseob and Jia, Ruoxi and Kluger, Yuval},
+  journal={arXiv preprint arXiv:2508.02964},
+  year={2025}
+}
+
+@article{carvajal2018abstract,
+  title={Abstract P2-09-18: Multiplexed (18-Plex) measurement of protein targets in trastuzumab-treated patients using imaging mass cytometry},
+  author={Carvajal-Hausdorf, Daniel E and Stanton, Kelly P and Patsenker, Jonathan and Villarroel-Espindola, Franz and Esch, Amanda and Montgomery, Ruth R and Psyrri, Amanda and Kalogeras, Konstantine T and Kotoula, Vasiliki and Fountzilas, George and others},
+  journal={Cancer Research},
+  volume={78},
+  number={4\_Supplement},
+  pages={P2--09},
+  year={2018},
+  publisher={The American Association for Cancer Research}
+}
+
+@article{carvajal2019multiplexed,
+  title={Multiplexed (18-Plex) measurement of signaling targets and cytotoxic T cells in trastuzumab-treated patients using imaging mass cytometry},
+  author={Carvajal-Hausdorf, Daniel E and Patsenker, Jonathan and Stanton, Kelly P and Villarroel-Espindola, Franz and Esch, Amanda and Montgomery, Ruth R and Psyrri, Amanda and Kalogeras, Konstantine T and Kotoula, Vassiliki and Foutzilas, George and others},
+  journal={Clinical Cancer Research},
+  volume={25},
+  number={10},
+  pages={3054--3062},
+  year={2019},
+  publisher={American Association for Cancer Research}
+}
+
+@article{savova2016dbmae,
+  title={dbMAE: the database of autosomal monoallelic expression},
+  author={Savova, Virginia and Patsenker, Jon and Vigneau, S{\'e}bastien and Gimelbrant, Alexander A},
+  journal={Nucleic acids research},
+  volume={44},
+  number={D1},
+  pages={D753--D756},
+  year={2016},
+  publisher={Oxford University Press}
+}
+
+@article{irshaid2022histopathologic,
+  title={Histopathologic and machine deep learning criteria to predict lymphoma transformation in bone marrow biopsies},
+  author={Irshaid, Lina and Bleiberg, Jonathan and Weinberger, Ethan and Garritano, James and Shallis, Rory M and Patsenker, Jonathan and Lindenbaum, Ofir and Kluger, Yuval and Katz, Samuel G and Xu, Mina L},
+  journal={Archives of Pathology \& Laboratory Medicine},
+  volume={146},
+  number={2},
+  pages={182--193},
+  year={2022},
+  publisher={the College of American Pathologists}
+}
+
+@article{wang2024language,
+  title={Language model-based B cell receptor sequence embeddings can effectively encode receptor specificity},
+  author={Wang, Meng and Patsenker, Jonathan and Li, Henry and Kluger, Yuval and Kleinstein, Steven H},
+  journal={Nucleic acids research},
+  volume={52},
+  number={2},
+  pages={548--557},
+  year={2024},
+  publisher={Oxford University Press}
+}
+
+@article{wang2025supervised,
+  title={Supervised fine-tuning of pre-trained antibody language models improves antigen specificity prediction},
+  author={Wang, Meng and Patsenker, Jonathan and Li, Henry and Kluger, Yuval and Kleinstein, Steven H},
+  journal={PLOS Computational Biology},
+  volume={21},
+  number={3},
+  pages={e1012153},
+  year={2025},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{ko2024boosting,
+  title={Boosting alignment for post-unlearning text-to-image generative models},
+  author={Ko, Myeongseob and Li, Henry and Wang, Zhun and Patsenker, Jonathan and Wang, Jiachen Tianhao and Li, Qinbin and Jin, Ming and Song, Dawn and Jia, Ruoxi},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={85131--85154},
+  year={2024}
+}
+
+@article{lifast,
+  title={Fast and Noise-Robust Diffusion Solvers for Inverse Problems: A Frequentist Approach},
+  author={Li, Henry and Patsenker, Jonathan and Ko, Myeongseob and Jia, Ruoxi and Kluger, Yuval}
+}

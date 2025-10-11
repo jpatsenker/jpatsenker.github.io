@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-On the market for positions such as Machine Learning Researcher/Scientist, Machine Learning Engineer, Data Scientist, Quantitative Researcher, or other related roles in industry!
+On the market, looking for industry positions such as Machine Learning Researcher/Scientist, Machine Learning Engineer, Data Scientist, Quantitative Researcher, and other related roles!

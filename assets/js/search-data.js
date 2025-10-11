@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-new-pre-print-available",
           title: 'New  pre-print  available!',
+          description: "",
+          section: "News",},{id: "news-on-the-market-for-positions-such-as-machine-learning-researcher-scientist-machine-learning-engineer-data-scientist-quantitative-researcher-or-other-related-roles-in-industry",
+          title: 'On the market for positions such as Machine Learning Researcher/Scientist, Machine Learning Engineer,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

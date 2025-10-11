@@ -35,4 +35,4 @@ Recently, my work has centered on the theory and guidance of diffusion models. I
 
 I have also interned with technical development teams at <a href="https://www.modernatx.com/en-US">Moderna</a>, where I developed and implemented computer vision and automation methods for high-throughput industrial processes—focused on delivering accurate, interpretable, and efficient solutions.
 
-In my free time, I play piano and <a href=""> produce music </a>.
+In my free time, I play piano and <a href=""> produce music</a>.

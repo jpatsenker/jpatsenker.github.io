@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-paper-accepted-to-plos-computational-biology-amp-lt-a-amp-gt",
+          title: 'Paper  accepted to PLOS Computational Biology! &amp;amp;lt;/a&amp;amp;gt;',
           description: "",
           section: "News",},{id: "news-new-pre-print-available",
           title: 'New  pre-print  available!',

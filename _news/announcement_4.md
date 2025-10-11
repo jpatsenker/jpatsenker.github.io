@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/9aa51796f8bede2ea947d6b6e3087ab8-Abstract-Conference.html"> One </a> paper accepted to NeurIPS 2024!
+<a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/9aa51796f8bede2ea947d6b6e3087ab8-Abstract-Conference.html"> Paper </a> accepted to NeurIPS 2024!

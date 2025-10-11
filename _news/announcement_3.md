@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012153"> Paper </a> accepted to PLOS Computational Biology! </a>
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012153"> Paper </a> accepted to PLOS Computational Biology!

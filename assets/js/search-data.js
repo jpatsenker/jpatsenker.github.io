@@ -391,7 +391,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-paper-accepted-to-plos-computational-biology",
+            },},{id: "news-one-paper-accepted-to-neurips-2024",
+          title: 'One  paper accepted to NeurIPS 2024!',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-to-plos-computational-biology",
           title: 'Paper  accepted to PLOS Computational Biology!',
           description: "",
           section: "News",},{id: "news-new-pre-print-available",

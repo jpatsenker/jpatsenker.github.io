@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: My research/work experience, and skills- I currently specialize in diffusion models, computer vision and diffusion geometry, but am interested in various problems with complex data, where stochastic systems and optimization come into play.
 toc:
   sidebar: left
 ---

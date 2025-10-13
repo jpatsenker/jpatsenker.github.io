@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "My research/work experience, and skills- I currently specialize in diffusion models, computer vision and diffusion geometry, but am interested in various problems with complex data, where stochastic systems and optimization come into play.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";

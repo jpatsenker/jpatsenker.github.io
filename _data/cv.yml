@@ -15,13 +15,14 @@
       institution: Yale University, New Haven, CT
       year: 2026
       description:
-        - Selected Courses: Sampling Algorithms in Machine Learning, Applied Data Mining & Machine Learning, Theory of Deep Learning, Topics in Numerical Computation, Harmonic Analysis on Graphs, Topics in Sparse Analysis, Numerical Methods for PDEs
         - Advised by Ronald Coifman and Yuval Kluger
+        - "Selected Courses: Sampling Algorithms in Machine Learning, Applied Data Mining & Machine Learning, Theory of Deep Learning, Topics in Numerical Computation, Harmonic Analysis on Graphs, Topics in Sparse Analysis, Numerical Methods for PDEs"
     - title: BS, Computer Science and Mathematics (Concentration on Operations Research)
       institution: Rensselaer Polytechnic Institute, Troy, NY
       year: 2018
       description:
-        - Selected Courses: Machine Learning from Data, Computational Optimization, Data Mining, Intro to Data Mathematics, Randomized Algorithms, Computer Algorithms, Math in Medicine and Biology, Math Models of Operations Research
+        - Advised by Malik Magdon-Ismail
+        - "Selected Courses: Machine Learning from Data, Computational Optimization, Data Mining, Intro to Data Mathematics, Randomized Algorithms, Computer Algorithms, Math in Medicine and Biology, Math Models of Operations Research"
 
 - title: Professional Experience
   type: time_table
@@ -60,8 +61,8 @@
 - title: Technical Skills
   type: list
   contents:
-    - <u> Programming languages and libraries </u>: Python, pytorch, tensorflow, numpy, scipy, R, Matlab, C, C++, Julia, Java
-    - <u> Areas of Expertise </u>: deep learning, machine learning, generative modeling, computer vision, language modeling, large-scale data analysis, optimization, stochastic processes, numerical optimization, general statistical methods, inverse problems
+    - "<u> Programming languages and libraries </u>: Python, pytorch, tensorflow, numpy, scipy, R, Matlab, C, C++, Julia, Java"
+    - "<u> Areas of Expertise </u>: deep learning, machine learning, generative modeling, computer vision, language modeling, large-scale data analysis, optimization, stochastic processes, numerical optimization, general statistical methods, inverse problems"
 
 - title: Leadership Experience
   type: time_table

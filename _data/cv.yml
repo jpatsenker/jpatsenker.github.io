@@ -16,7 +16,7 @@
       year: 2026
       description:
         - Selected Courses: Sampling Algorithms in Machine Learning, Applied Data Mining & Machine Learning, Theory of Deep Learning, Topics in Numerical Computation, Harmonic Analysis on Graphs, Topics in Sparse Analysis, Numerical Methods for PDEs
-	- Advised by Ronald Coifman and Yuval Kluger
+        - Advised by Ronald Coifman and Yuval Kluger
     - title: BS, Computer Science and Mathematics (Concentration on Operations Research)
       institution: Rensselaer Polytechnic Institute, Troy, NY
       year: 2018
@@ -41,21 +41,21 @@
       institution: Kluger Lab & Applied Mathematics Program, Yale University
       year: 2019-2026
       description:
-	- Developing theoretical frameworks for distilling and mining features from large generative models
-	- Developed, tested, and analyzed a novel method for solving inverse problems by leveraging information generative models with strong theoretical guarantees
-	- Designed novel deep learning based models and manifold learning models for analyzing high resolution multi-channel images
-	- Developed large language model-based approaches for robust feature embeddings of protein sequence data
-	- Developed novel framework for modeling AI model training with physical simulation
-	- Collaborated with pathologists to design data-driven solutions to drug survivability, cancer identification problems
-	- Developed and implemented novel tensor imputation methods by leveraging higher-order information efficiently
-	- Contributed to developing theoretical framework for the analysis of the popular embedding method, word2vec
-	- Published peer-reviewed publications at top level conferences and journals
+        - Developing theoretical frameworks for distilling and mining features from large generative models
+        - Developed, tested, and analyzed a novel method for solving inverse problems by leveraging information generative models with strong theoretical guarantees
+        - Designed novel deep learning based models and manifold learning models for analyzing high resolution multi-channel images
+        - Developed large language model-based approaches for robust feature embeddings of protein sequence data
+        - Developed novel framework for modeling AI model training with physical simulation
+        - Collaborated with pathologists to design data-driven solutions to drug survivability, cancer identification problems
+        - Developed and implemented novel tensor imputation methods by leveraging higher-order information efficiently
+        - Contributed to developing theoretical framework for the analysis of the popular embedding method, word2vec
+        - Published peer-reviewed publications at top level conferences and journals
 
     - title: Undergraduate Researcher
       institution: Computer Science Department, Rensselaer Polytechnic Institute
       year: 2017-2018
       description:
-	- Developed, implemented and tested a statistically informed method for network routing on large graphs
+        - Developed, implemented and tested a statistically informed method for network routing on large graphs
 
 - title: Technical Skills
   type: list

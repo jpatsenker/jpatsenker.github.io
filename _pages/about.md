@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD Candidate in Applied Mathematics at Yale University, seeking opportunities in industry in machine learning as well as data science.
+I am a PhD Candidate in Applied Mathematics at Yale University, seeking opportunities in industry in machine learning as well as data science, and quantitative research.
 
 My research focuses on methods for organizing and understanding large, complex datasets: developing ways to extract meaningful structure that supports both automation and scientifically rigorous inference. I’ve worked with diverse data modalities, including natural and medical images, low-rank tensors, and amino-acid sequences. I’m particularly drawn to datasets that pose unique computational challenges and open avenues for new algorithmic or mechanistic insights.
 

@@ -5,8 +5,6 @@
       value: Jonathan Patsenker
     - name: Date of Birth
       value: 10th March 1997
-    - name: Languages
-      value: English, Russian
 
 - title: Education
   type: time_table
@@ -57,6 +55,14 @@
       year: 2017-2018
       description:
         - Developed, implemented and tested a statistically informed method for network routing on large graphs
+
+    - title: Research Intern
+      institution: Systems Biology, Harvard Medical School
+      year: 2015-2017
+      description:
+        - Developed, and implemented a statistical method for assessing the quality of genomes and proteomes
+        - Deployed a tool for proteome research for annotating and cleaning proteomes
+
 
 - title: Technical Skills
   type: list

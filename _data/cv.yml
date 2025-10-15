@@ -66,8 +66,8 @@
 - title: Technical Skills
   type: list
   contents:
-    - "<u> Programming languages and libraries </u>: Python, pytorch, tensorflow, numpy, scipy, R, Matlab, C, C++, Julia, Java"
-    - "<u> Areas of Expertise </u>: deep learning, machine learning, generative modeling, computer vision, language modeling, large-scale data analysis, optimization, stochastic processes, numerical optimization, general statistical methods, inverse problems"
+    - "<u> Programming languages and libraries</u>: Python, pytorch, tensorflow, numpy, scipy, R, Matlab, C, C++, Julia, Java"
+    - "<u> Areas of Expertise</u>: deep learning, machine learning, generative modeling, computer vision, language modeling, large-scale data analysis, optimization, stochastic processes, numerical optimization, general statistical methods, inverse problems"
 
 - title: Leadership Experience
   type: time_table

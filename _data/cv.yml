@@ -1,0 +1,95 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Jonathan Patsenker
+    - name: Date of Birth
+      value: 10th March 1997
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Applied Mathematics
+      institution: Yale University, New Haven, CT
+      year: 2026 (expected)
+      description:
+        - Advised by Ronald Coifman and Yuval Kluger
+        - "Selected Courses: Sampling Algorithms in Machine Learning, Applied Data Mining & Machine Learning, Theory of Deep Learning, Topics in Numerical Computation, Harmonic Analysis on Graphs, Topics in Sparse Analysis, Numerical Methods for PDEs"
+    - title: BS, Computer Science and Mathematics (Concentration on Operations Research)
+      institution: Rensselaer Polytechnic Institute, Troy, NY
+      year: 2018
+      description:
+        - Advised by Malik Magdon-Ismail
+        - "Selected Courses: Machine Learning from Data, Computational Optimization, Data Mining, Intro to Data Mathematics, Randomized Algorithms, Computer Algorithms, Math in Medicine and Biology, Math Models of Operations Research"
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Technical Development Intern
+      institution: Moderna TX., Norwood, MA
+      year: 2023
+      description:
+        - Designed a novel technique, leveraging deep transfer learning methods with approaches based in diffusion geometry to automate analysis of CryoEM image data containing lipid nanoparticles
+        - Implemented a custom pipeline and codebase to run the novel technique on CryoEM data in an industrial research environment to handle high throughput data
+        - Designed and implemented a novel method to model the kinetics of relevant reactions for high throughput industrial processing
+
+- title: Research Experiences
+  type: time_table
+  contents:
+    - title: PhD Researcher
+      institution: Kluger Lab & Applied Mathematics Program, Yale University
+      year: 2019-Present
+      description:
+        - Developing theoretical frameworks for distilling and mining features from large generative models
+        - Developed, tested, and analyzed a novel method for solving inverse problems by leveraging information generative models with strong theoretical guarantees
+        - Designed novel deep learning based models and manifold learning models for analyzing high resolution multi-channel images
+        - Developed large language model-based approaches for robust feature embeddings of protein sequence data
+        - Developed novel framework for modeling AI model training with physical simulation
+        - Collaborated with pathologists to design data-driven solutions to drug survivability, cancer identification problems
+        - Developed and implemented novel tensor imputation methods by leveraging higher-order information efficiently
+        - Contributed to developing theoretical framework for the analysis of the popular embedding method, word2vec
+        - Published peer-reviewed publications at top level conferences and journals
+
+    - title: Undergraduate Researcher
+      institution: Computer Science Department, Rensselaer Polytechnic Institute
+      year: 2017-2018
+      description:
+        - Developed, implemented and tested a statistically informed method for network routing on large graphs
+
+    - title: Research Intern
+      institution: Systems Biology, Harvard Medical School
+      year: 2015-2017
+      description:
+        - Developed, and implemented a statistical method for assessing the quality of genomes and proteomes
+        - Deployed a tool for proteome research for annotating and cleaning proteomes
+
+
+- title: Technical Skills
+  type: list
+  contents:
+    - "<u> Programming languages and libraries </u>: Python, pytorch, tensorflow, numpy, scipy, R, Matlab, C, C++, Julia, Java"
+    - "<u> Areas of Expertise </u>: deep learning, machine learning, generative modeling, computer vision, language modeling, large-scale data analysis, optimization, stochastic processes, numerical optimization, general statistical methods, inverse problems"
+
+- title: Leadership Experience
+  type: time_table
+  contents:
+    - title: Teaching Fellow
+      institution: Mathematics Department, Yale University
+      year: 2021-2025
+      description:
+        - Collaborated with faculty to design curriculum in the Discrete Mathematics (MATH 244) course.
+        - Tutoring undergraduate students in both the Discrete Mathematics (MATH 244) and Structure of Networks (AMTH 160) courses
+        - Designing, building and maintaining an automated homework server for the Structure of Networks (AMTH 160) course
+
+    - title: Yale Biotech Club Datathon Mentor
+      year: 2022
+      description:
+        - Assisted undergraduate, graduate, and professional students in datathon in partnership with Boehringer Ingelheim and Code Ocean for tackling problems in healthcare informatics
+
+    - title: Project Leader and External Mentor
+      institution: RCOS (Rensselaer Center for Open Source)
+      year: 2014-2018
+      description:
+        - Founded and led a student-based research group in computational music generation and analysis
+        - Collaborated with students and professors to build style-specific rhythm generators, and chord progression generators
+        - Worked on feature based and deep learning based approaches for music generation

@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-on-the-market-looking-for-industry-positions-such-as-machine-learning-researcher-scientist-machine-learning-engineer-data-scientist-quantitative-researcher-and-other-related-roles",
           title: 'On the market, looking for industry positions such as Machine Learning Researcher/Scientist, Machine...',
           description: "",
+          section: "News",},{id: "news-paper-accepted-to-aistats-2026",
+          title: 'Paper  accepted to AISTATS 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
